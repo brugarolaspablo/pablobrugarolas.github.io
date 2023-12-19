@@ -19,9 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Test
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second-year PhD candidate in Economics working under the supervision of [Sara Ayllón](http://www.saraayllon.eu/)
+(University of Girona & IZA).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In January 2024, I will be joining LSE's Department of Social Policy as a Visiting PhD Research Student,  where I will have the opportunity to work with
+[Almudena Sevilla](https://www.lse.ac.uk/social-policy/people/academic-staff/Professor-Almudena-Sevilla) (LSE & IZA).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am passionately engaged in `family economics`, `economics of human development`, `education economics`, `economics of poverty and inequality`, and `causal-inference methods`. My thesis delves into the impacts of universal childcare policies. The first chapter uses modern meta-analysis techniques to analyze whether causal estimates of the impact of enrolling into universal childcare programs on children’s development are affected by publication bias. In the second chapter, I explore the effects of income-adjusted childcare fees on immigrant children's enrollment in Catalonia, leveraging a staggered event study design. The third chapter assesses the long-term developmental returns of Barcelona's public childcare expansion, using a recent difference-in-differences design for continuous treatments to compare health, education, and labor market achievements across children cohorts and districts.
