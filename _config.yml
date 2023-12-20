@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Pablo Brugarolas (Econ Phd student, Universitat de Girona, Spain) - Personal website
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 📸 by <a href="https://www.eagfilm.com/" target="_blank">eagfilm 
 keywords: Pablo Brugarolas Navarro, Pablo Brugarolas, pablobrugarolas, Brugarolas @pablobrugarolas, pablo.brugarolas@udg.edu, Sara Ayllón   # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -47,7 +47,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 900px
@@ -68,14 +68,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: pablobrugarolas # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username:  # your X handle
+x_username:  pablobrugarolas # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: Eb6_UuEAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-5290-4755 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
