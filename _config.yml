@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Pablo Brugarolas (Econ Phd student, Universitat de Girona, Spain) - Personal website
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 📸 by <a href="https://www.eagfilm.com/" target="_blank">eagfilm 
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 📸 by <a href="https://www.eagfilm.com/" target="_blank">eagfilm</a>.  
 keywords: Pablo Brugarolas Navarro, Pablo Brugarolas, pablobrugarolas, Brugarolas @pablobrugarolas, pablo.brugarolas@udg.edu, Sara Ayllón   # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
