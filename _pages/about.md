@@ -18,10 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD candidate in Economics working under the supervision of [Sara Ayllón](http://www.saraayllon.eu/)
-(University of Girona & IZA).
+I am a last-year PhD candidate in Economics working under the supervision of [Sara Ayllón](http://www.saraayllon.eu/)
+(University of Girona & IZA). I am part of the [Women in Social and Public Policy Research Hub](https://www.lse.ac.uk/social-policy/research/Research-clusters/WISPPRH) at LSE. 
 
-In January 2024, I will be joining LSE's Department of Social Policy as a Visiting PhD Research Student,  where I will have the opportunity to work with
-[Almudena Sevilla](https://www.lse.ac.uk/social-policy/people/academic-staff/Professor-Almudena-Sevilla) (LSE & IZA).
+During the next academic year, I will be visiting University of La Laguna's Department of Economics as a Visiting PhD Student, where I will have the opportunity to work with [Gustavo Marrero](https://portalciencia.ull.es/investigadores/82381/detalle?lang=en).
 
-I am passionately engaged in `family economics`, `economics of human development`, `education economics`, `economics of poverty and inequality`, and `causal-inference methods`. My thesis delves into the impacts of universal childcare policies. The first chapter uses modern meta-analysis techniques to analyze whether causal estimates of the impact of enrolling into universal childcare programs on children’s development are affected by publication bias. In the second chapter, I explore the effects of income-adjusted childcare fees on immigrant children's enrollment in Catalonia, leveraging a staggered event study design. The third chapter assesses the long-term developmental returns of Barcelona's public childcare expansion, using a recent difference-in-differences design for continuous treatments to compare health, education, and labor market achievements across children cohorts and districts.
+I am passionately engaged in `family economics`, `economics of human development`, `education economics`, `economics of poverty and inequality`, and `causal-inference methods`. My thesis delves into the impacts of universal childcare policies on children and mothers, combining meta-analysis with causal designs. 
